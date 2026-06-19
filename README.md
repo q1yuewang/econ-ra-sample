@@ -19,4 +19,4 @@ Code sample showing basic data cleaning, reshaping, and plotting for empirical r
 
 ```bash
 pip install numpy pandas matplotlib seaborn
-python data_pipeline.py
+python ra_technical_sample.py
